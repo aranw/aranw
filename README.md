@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🏢 I'm a Senior Golang/Platform Engineer
+- 👨‍💻 All of my open source projects are available on [here](https://github.com/aranw)!
+- 📝 You can find my blog [here](https://aran.dev/posts)
+- 🕰️ For an up to date list of things I'm up to right now check out my [/now](https://aran.dev/now) page!
+- 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/aranw/) and [Twitter/X](https://x.com/aran384)
+
 <!--
 **aranw/aranw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
